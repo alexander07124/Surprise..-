@@ -101,17 +101,17 @@ button:hover {
 
 @media screen and (max-width: 768px) {
     h1 {
-        font-size: 28px;
+        font-size: 50px;
     }
     
     button {
-        font-size: 18px;
+        font-size: 25px;
         padding: 10px 20px;
         margin: 8px;
     }
 
     .popup {
-        font-size: 20px;
+        font-size: 50px;
         width: 80%;
         padding: 15px;
     }
@@ -119,17 +119,17 @@ button:hover {
 
 @media screen and (max-width: 480px) {
     h1 {
-        font-size: 24px;
+        font-size: 50px;
     }
     
     button {
-        font-size: 16px;
+        font-size: 25px;
         padding: 8px 16px;
         margin: 6px;
     }
 
     .popup {
-        font-size: 18px;
+        font-size: 25px;
         width: 90%;
         padding: 12px;
     }
